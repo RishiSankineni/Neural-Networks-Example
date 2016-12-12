@@ -1,2 +1,2 @@
 # Layer-Neural-Network
-Neural Network in 11 lines.
+A Neural Network in 11 lines of Python.
