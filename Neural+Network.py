@@ -1,5 +1,5 @@
 
-# coding: utf-8
+# Version: Python 2.7
 
 # In[27]:
 
@@ -46,13 +46,6 @@ for iter in xrange(10000):
 print "Output After Training:"
 print l1
 
-
-# In[30]:
-
-l1_delta
-
-
-# In[ ]:
 
 
 
