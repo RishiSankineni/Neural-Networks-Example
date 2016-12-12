@@ -1,4 +1,4 @@
-# Layer-Neural-Network
+# 2 Layer-Neural-Network
 A Neural Network in 11 lines of Python.
 
 This tutorial teaches backpropagation via a very simple toy example, a short python implementation.
